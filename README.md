@@ -110,8 +110,6 @@ The SQL analysis answers several real-world business questions, including:
 
 # 📊 Dashboard Preview
 
-> Replace the image below with your dashboard screenshot.
-
 ![Dashboard](images/dashboard.png)
 
 ---
