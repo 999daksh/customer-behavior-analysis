@@ -228,7 +228,7 @@ https://www.linkedin.com/in/daksh-maheshwari-48612328a/
 
 ---
 
-## 🙏 Acknowledgement
+## Acknowledgement
 
 This project was completed as part of a guided learning experience to strengthen practical skills in Python, SQL, and Power BI. The implementation and documentation in this repository reflect my understanding and hands-on practice of the complete analytics workflow.
 
